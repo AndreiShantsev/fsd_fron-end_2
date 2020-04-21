@@ -1,0 +1,167 @@
+
+
+.group_one img{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 30px;
+    top: 30px;
+    
+}
+
+.Rectangle {
+    top: 145px;
+    background: #1F2041;
+    border-radius: 6px;
+}
+
+
+.Rectangle_2{
+    top: 235px;
+    background: rgba(31, 32, 65, 0.75);
+    border-radius: 6px;
+}
+
+.cub{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 150px;
+}
+
+.Rectangle_3{
+    top: 324.56px;
+    background: rgba(31, 32, 65, 0.5);
+    border-radius: 6px;
+}
+
+.Rectangle_4{
+    top: 415px;
+    background: rgba(31, 32, 65, 0.25);
+    border-radius: 6px;
+}
+
+.Rectangle_5{
+    top: 505px;
+    background: rgba(31, 32, 65, 0.05);
+    border-radius: 6px;
+}
+
+.Rectangle_6{
+    top: 595px;
+    background: #BC9CFF;
+    border-radius: 6px;
+}
+
+.Rectangle_7{
+    top: 685px;
+    background: #6FCF97;
+    border-radius: 6px;
+}   
+
+.standart h1 {
+    position: absolute;
+    width: 159px;
+    height: 58px;
+    font-size: 19px;
+    line-height: 29px;
+    display: flex;
+    color: #1F2041;
+    left: 123px;
+    top: 3px;
+    margin-top: 0px;
+}
+
+.standart p{
+    position: absolute;
+    width: 159px;
+    height: 58px;
+    font-size: 19px;
+    line-height: 29px;
+    display: flex;
+    color: #1F2041;
+    left: 123px;
+    top: 5px;
+}
+
+.group_hree{
+    position: absolute;
+    width: 403px;
+    height: 321px;
+    left: 846px;
+    top: 145px;
+}
+
+.h1-body{
+    position: absolute;
+    width: 29px;
+    height: 30px;
+    left: -80px;
+    top: 0px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    color: rgba(31, 32, 65, 0.25);
+}
+
+.one h1{
+    position: absolute;
+    width: 336px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #1F2041;
+}
+
+.twe h2{
+    position: absolute;
+    width: 282px;
+    height: 48px;
+    left: 0;
+    top: 70px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 24px;
+    color: #1F2041;
+}
+
+.hree{
+    position: absolute;
+    width: 186px;
+    height: 15px;
+    left: 0;
+    top: 140px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #1F2041;
+}
+
+.four{
+    position: absolute;
+    width: 301px;
+    height: 48px;
+    left: 0;
+    top: 180px;
+    font-family: Montserrat; 
+    font-style: normal; 
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(31, 32, 65, 0.75);
+}
+
